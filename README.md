@@ -1,2 +1,2 @@
-# template-python-codespace
-Template python codespace
+# template-python-devtainer
+Template python devtainer/codespace
