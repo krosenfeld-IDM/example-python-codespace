@@ -1,2 +1,2 @@
-# example-python-codespace
-Example python codespace
+# template-python-codespace
+Template python codespace
